@@ -3,3 +3,4 @@ department: cse
 year: second year
 subject: git
 exp: repository history audit
+purpose: track and audit repository
