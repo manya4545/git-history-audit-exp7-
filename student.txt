@@ -1,0 +1,4 @@
+name: manya
+department: cse
+year: second year
+subject: git
